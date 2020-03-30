@@ -1,0 +1,107 @@
+[
+    {
+        "name" : "Wasif Mohammed",
+        "photo" : "https://i.ibb.co/880SRzB/wasif.jpg",
+        "designation" : "Android Developer",
+        "salary" : "45000",
+        "experience" : "2"
+    },
+    {
+        "name" : "Taqi Ahmed",
+        "photo" : "https://i.ibb.co/ZVnmzF6/taqi.jpg",
+        "designation" : "Web Developer",
+        "salary" : "40000",
+        "experience" : "1.5"
+    },
+    {
+        "name" : "Shajat Nihal",
+        "photo" : "https://i.ibb.co/Ss7YpY3/sajat.jpg",
+        "designation" : "Human Resource",
+        "salary" : "90000",
+        "experience" : "0"
+    },
+    {
+        "name" : "Saiful Ahmed",
+        "photo" : "https://i.ibb.co/zX6Yzw3/saiful.jpg",
+        "designation" : "Data Entry",
+        "salary" : "5000",
+        "experience" : "1"
+    },
+    {
+        "name" : "Tanjil Pranto",
+        "photo" : "https://i.ibb.co/fGMCbRN/pranto.jpg",
+        "designation" : "Logo Designer",
+        "salary" : "25000",
+        "experience" : "1.5"
+    },
+    {
+        "name" : "Naive Mondol",
+        "photo" : "https://i.ibb.co/f4h2278/naive.jpg",
+        "designation" : "Advisor",
+        "salary" : "10000",
+        "experience" : "5"
+    },
+    {
+        "name" : "Tonmoy Mirza",
+        "photo" : "https://i.ibb.co/fN7DGXG/mirza.jpg",
+        "designation" : "Junior Web Developer",
+        "salary" : "40000",
+        "experience" : "1"
+    },
+    {
+        "name" : "Swadeh Mandal",
+        "photo" : "https://i.ibb.co/w4XD6ZY/malu.jpg",
+        "designation" : "Digital Marketer",
+        "salary" : "50000",
+        "experience" : "2"
+    },
+    {
+        "name" : "Hasanath Jamy",
+        "photo" : "https://i.ibb.co/TLWq7NL/jamy.jpg",
+        "designation" : "Digital Marketer",
+        "salary" : "60000",
+        "experience" : "3"
+    },
+    {
+        "name" : "Hasibul Hasan",
+        "photo" : "https://i.ibb.co/Ky6G3qY/imran.jpg",
+        "designation" : "It Executive",
+        "salary" : "60000",
+        "experience" : "4"
+    },
+    {
+        "name" : "Foisal Shaheb",
+        "photo" : "https://i.ibb.co/Sf8RJW2/foisal.jpg",
+        "designation" : "Database Administrator",
+        "salary" : "80000",
+        "experience" : "4"
+    },
+    {
+        "name" : "Faysal Ahmed",
+        "photo" : "https://i.ibb.co/ygg1g2P/faysal.jpg",
+        "designation" : "Web Developer",
+        "salary" : "60000",
+        "experience" : "3.5"
+    },
+    {
+        "name" : "Dibya Nath",
+        "photo" : "https://i.ibb.co/KzPCSvw/dibya.jpg",
+        "designation" : "Computer Operator",
+        "salary" : "15000",
+        "experience" : "2.5"
+    },
+    {
+        "name" : "Galib Shahriar",
+        "photo" : "https://i.ibb.co/P6gjGMr/broh.jpg",
+        "designation" : "Gray Hat Hacker",
+        "salary" : "50000",
+        "experience" : "10"
+    },
+    {
+        "name" : "Tonmoy Hasan",
+        "photo" : "https://i.ibb.co/hmxPBy5/dc.jpg",
+        "designation" : "Network Engineer",
+        "salary" : "20000",
+        "experience" : "3"
+    }
+]

@@ -1,0 +1,13 @@
+.budget{
+    padding-left: 10px;
+}
+.budget h3{
+    color: teal;
+}
+
+.revenue{
+    font-weight: 600;
+    font-size: large;
+    border-top: 1px solid blueviolet;
+    padding-top: 10px;
+}

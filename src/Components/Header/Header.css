@@ -4,8 +4,12 @@
     align-items: center;
     background-color: whitesmoke;
     padding: 10px;
-    border-bottom: 1px solid lightcyan;
+    border-bottom: 1px solid blueviolet;
 }
 .header img{
-    height: 50px;
+    height: 80px;
+    padding-right: 20px;
+}
+.header h2{
+    color: teal;
 }
